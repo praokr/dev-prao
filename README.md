@@ -25,11 +25,11 @@
 ### 🍊 Blog Uploads
   
 <!-- BLOG-POST-LIST:START -->
+- [Index Scan in Oracle, 오라클의 다양한 인덱스 스캔 방식](https://prao.tistory.com/entry/Index-Scan-in-Oracle-%EC%98%A4%EB%9D%BC%ED%81%B4%EC%9D%98-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%8A%A4%EC%BA%94-%EB%B0%A9%EC%8B%9D)
 - [오라클의 인덱스&lpar;Index&rpar;와 B-Tree](https://prao.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4%EC%9D%98-%EC%9D%B8%EB%8D%B1%EC%8A%A4Index%EC%99%80-B-Tree)
 - [오라클의 실행 계획&lpar;Execution Plan&rpar;과 옵티마이저&lpar;Optimizer&rpar;](https://prao.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4%EC%9D%98-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8DExecution-Plan%EA%B3%BC-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80Optimizer)
 - [오라클의 내부 구조](https://prao.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4%EC%9D%98-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0)
 - [Kotlin vs Java 알고리즘 풀이 비교](https://prao.tistory.com/entry/Kotlin-vs-Java-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EC%9D%B4-%EB%B9%84%EA%B5%90)
-- [Kotlin + Spring Boot ORM/DSL 선택](https://prao.tistory.com/entry/Kotlin-Spring-Boot-ORMDSL-%EC%84%A0%ED%83%9D)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 Projects
